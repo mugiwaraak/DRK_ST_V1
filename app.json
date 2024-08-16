@@ -1,8 +1,8 @@
 {
-  "name": "frecyber-md",
-  "description": "Simple WhatsApp Bot",
-  "repository": "https://github.com/Frecyber/Frecyber-md",
-  "logo": "https://telegra.ph/file/957aab565af943d0c5109.jpg",
+  "name": "DRK_ST_V1",
+  "description": "Simple WhatsApp Bot DRK_ST_V1",
+  "repository": "https://github.com/Dark-S-TEN/DRK_ST_V1",
+  "logo": "https://telegra.ph/file/101bf22f101df83c4adbf.jpg",
   "keywords": ["FRECYBER-MD", "FRECYBER", "FRECYBER MD BOT","FRECYBER MD","frecyber","fredietech"],
   "success_url": "/",
   "stack": "container",
@@ -28,12 +28,12 @@
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝔽ℝ𝔼ℂ𝕐𝔹𝔼ℝ 𝕄𝔻 𝔹𝕆𝕋"
+      "value": "DRK_ST_V1"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
       "required": false,
-      "value": "Africa/Dar es salaam"
+      "value": "America/Port-au-Prince"
     },
     "READ_COMMAND": {
       "description": " Read bot cmds",
@@ -91,7 +91,7 @@
     },
     "OWNER_NUMBER": {
       "description": "The phone numbers of the users who you want to be admin for the bot (should be in international format without + and multiple numbers must be separated by a comma \",\")",
-      "value": "255620814108,255764182801,255776663848,255752593977"
+      "value": "50931461936"
     },
     "SESSION_ID": {
       "description": "put your SESSION_ID here.",
