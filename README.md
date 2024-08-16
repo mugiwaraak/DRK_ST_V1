@@ -5,7 +5,7 @@
   </a>
 </p>
 
-![DRK_ST_BUG](https://telegra.ph/DRK-ST-V1-08-16)
+![DRK_ST_V1](https://telegra.ph/DRK-ST-V1-08-16)
 
 ---
 
