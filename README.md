@@ -1,11 +1,11 @@
 # 👨‍💻 DRK_ST_V1 👾
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=+:DRK_ST_V1;WHATSAPP+PUSSANT+x+SIMPLE+BOT;DEVELOPPER+PAR+𝙎-𝙏𝞢𝞜" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=EB+Garamond&weight=800&size=28&duration=4000&pause=1000&random=false&width=435&lines=DRK_ST_V1;WHATSAPP+PUSSANT+x+SIMPLE+BOT;DEVELOPPER+PAR+𝙎-𝙏𝞢𝞜" alt="Typing SVG" />
   </a>
 </p>
 
-![DRK_ST_BUG](https://ibb.co/QmCpw1P)
+![DRK_ST_BUG](https://telegra.ph/DRK-ST-V1-08-16)
 
 ---
 
