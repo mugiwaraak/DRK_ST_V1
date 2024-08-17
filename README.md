@@ -22,6 +22,7 @@
 5. **Abonnez-vous à mon canal pour le tutoriel** : [WhatsApp Channel](https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w).
 
 6. **DÉPLOIEMENT SUR REPLIT** : [Replit](https://replit.com/@darksten4/DRKSTV1?s=app).
+6. **DÉPLOIEMENT SUR GITHUB** : [Deploy](https://github.com/Dark-S-TEN/DRK_ST_V1/actions)
 ---
 
 ## ⚠️ AVERTISSEMENT ⚠️
