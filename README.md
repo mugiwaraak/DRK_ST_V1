@@ -20,7 +20,8 @@
 3. **Cliquez sur [FORK](https://github.com/Sandro-sten/DRK_ST_V1/fork)** pour cloner le projet.
 4. **Le bot peut être déployé sur GitHub,et termux,heroku et sur Replit**.
 5. **Abonnez-vous à mon canal pour le tutoriel** : [WhatsApp Channel](https://whatsapp.com/channel/0029Vakp0UnICVfe3I2Fe72w).
-6.. **DÉPLOIEMENT SUR REPLIT** : [Replit](https://replit.com/@darksten4/DRKSTV1?s=app).
+
+6. **DÉPLOIEMENT SUR REPLIT** : [Replit](https://replit.com/@darksten4/DRKSTV1?s=app).
 ---
 
 ## ⚠️ AVERTISSEMENT ⚠️
