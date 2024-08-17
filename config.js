@@ -48,7 +48,7 @@ module.exports = {
   HANDLERS: process.env.PREFIX || ".",
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
-  caption: process.env.CAPTION || "you're using first powerful bot to be released in DRK_ST_Tech| enjoy your time| this is DRK_ST_V1,
+  caption: process.env.CAPTION || "you're using first powerful bot to be released in DRK_ST_Tech| enjoy your time| this is DRK_ST_V1",
   author: process.env.PACK_AUTHER || "FRECYBER",
   packname: process.env.PACK_NAME || "🤫",
   botname: process.env.BOT_NAME || "DRK_ST_V1",
