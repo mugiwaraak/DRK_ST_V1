@@ -49,7 +49,7 @@ module.exports = {
   BRANCH: process.env.BRANCH || "main",
   VERSION: process.env.VERSION || "1.0.0",
   caption: process.env.CAPTION || "you're using first powerful bot to be released in DRK_ST_Tech| enjoy your time| this is DRK_ST_V1",
-  author: process.env.PACK_AUTHER || "FRECYBER",
+  author: process.env.PACK_AUTHER || "🌹⃟⃢👑 ĐÆ𝚪𝐊༒𝙎-𝙏𝞢𝞜🌹⃟⃢👑",
   packname: process.env.PACK_NAME || "🤫",
   botname: process.env.BOT_NAME || "DRK_ST_V1",
   ownername: process.env.OWNER_NAME || "𝙎-𝙏𝞢𝞜",
@@ -64,7 +64,7 @@ module.exports = {
   aitts_Voice_Id: process.env.AITTS_ID || "37",
   ELEVENLAB_API_KEY: process.env.ELEVENLAB_API_KEY || "",
   WORKTYPE: process.env.WORKTYPE || process.env.MODE || "private",
-  LANG: (process.env.THEME || "FRECYBER").toUpperCase(),
+  LANG: (process.env.THEME || "DRK_ST").toUpperCase(),
 };
 global.rank = "updated";
 global.isMongodb = false;
